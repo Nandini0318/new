@@ -18,7 +18,31 @@ body{
     margin-top: 2%;
     
 }
+.nav-link {
+    text-decoration: none;
+    color: #585858;
+}
 
+.nav-link:hover {
+    text-decoration: underline;
+    color: black;
+
+}
+
+
+
+.icons{
+    margin-right: 25%;
+}
+.icons a{
+    font-size: 24px;
+    padding: 7px;
+    color: black;
+}
+.icons a :hover{
+    transition: ease-in-out;
+    
+}
     
 
    
