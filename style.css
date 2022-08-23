@@ -16,7 +16,6 @@ body{
 .navbar{
     margin-left: 12%;
     margin-top: 2%;
-    
 }
 .nav-link {
     text-decoration: none;
@@ -26,6 +25,7 @@ body{
 .nav-link:hover {
     text-decoration: underline;
     color: black;
+
 
 }
 .icons{
@@ -41,12 +41,10 @@ body{
     
 }
 
-
 #carouselExampleCaptions {
     margin-top: 3%;
     width: 65%;
     margin-left: 15%;
-    
 }
 
 .carousel-caption{
@@ -75,5 +73,3 @@ body{
 
   
     
-
-   
