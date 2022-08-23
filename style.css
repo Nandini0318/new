@@ -45,21 +45,34 @@ body{
     margin-top: 3%;
     width: 65%;
     margin-left: 15%;
-    
 }
 
-@media (max-width:200px) {
-    .navbar{
-        margin-left: 5%;
-        margin-top: 2%;
-    }
-    .navbar-brand{
-        margin-left: 10px;
-    }
-   .icons{
-    display:none;
+.carousel-caption{
+    width: 400px;
+    height: 200px;  
 
-   }
+  }
+  .container{
+    margin-top: 5%;
+  }
+  .container h3{
+    margin-left: 12%;
+  }
+  .container img{
+    margin-top: 10%;
+    margin-left: 15%;
+  }
+   .container a{
+    text-decoration: none;
+    color: black;
+  }
+  .container a:hover{
+    text-decoration: underline;
+  }
+  .container p{
+    margin-left: 15%;
+  }
+ 
+
   
     
-}
