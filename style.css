@@ -47,6 +47,19 @@ body{
     margin-left: 15%;
     
 }
-    
 
-   
+@media (max-width:200px) {
+    .navbar{
+        margin-left: 5%;
+        margin-top: 2%;
+    }
+    .navbar-brand{
+        margin-left: 10px;
+    }
+   .icons{
+    display:none;
+
+   }
+  
+    
+}
