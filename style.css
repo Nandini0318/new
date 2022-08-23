@@ -28,9 +28,6 @@ body{
     color: black;
 
 }
-
-
-
 .icons{
     margin-right: 25%;
 }
@@ -40,7 +37,15 @@ body{
     color: black;
 }
 .icons a :hover{
-    transition: ease-in-out;
+    color: gray;   
+    
+}
+
+
+#carouselExampleCaptions {
+    margin-top: 3%;
+    width: 65%;
+    margin-left: 15%;
     
 }
     
