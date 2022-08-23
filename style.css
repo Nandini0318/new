@@ -16,9 +16,13 @@ body{
 .navbar{
     margin-left: 12%;
     margin-top: 2%;
-    
 }
 
-    
+@media (min-width:200px) {
+    .navbar{
+        margin-left: 5%;
+        margin-top: 2%;
+    }
+ }    
 
    
