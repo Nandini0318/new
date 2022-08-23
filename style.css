@@ -48,6 +48,32 @@ body{
     margin-left: 15%;
     
 }
+
+.carousel-caption{
+    width: 400px;
+    height: 200px;  
+
+  }
+  .container{
+    margin-top: 5%;
+  }
+  .container h3{
+    margin-left: 12%;
+  }
+  .container img{
+    margin-top: 10%;
+    margin-left: 15%;
+  }
+   .container a{
+    text-decoration: none;
+    color: black;
+  }
+  .container a:hover{
+    text-decoration: underline;
+  }
+ 
+
+  
     
 
    
