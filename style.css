@@ -17,12 +17,49 @@ body{
     margin-left: 12%;
     margin-top: 2%;
 }
+.nav-link {
+    text-decoration: none;
+    color: #585858;
+}
 
-@media (min-width:200px) {
+.nav-link:hover {
+    text-decoration: underline;
+    color: black;
+
+
+}
+.icons{
+    margin-right: 25%;
+}
+.icons a{
+    font-size: 24px;
+    padding: 7px;
+    color: black;
+}
+.icons a :hover{
+    color: gray;   
+    
+}
+
+#carouselExampleCaptions {
+    margin-top: 3%;
+    width: 65%;
+    margin-left: 15%;
+    
+}
+
+@media (max-width:200px) {
     .navbar{
         margin-left: 5%;
         margin-top: 2%;
     }
- }    
+    .navbar-brand{
+        margin-left: 10px;
+    }
+   .icons{
+    display:none;
 
-   
+   }
+  
+    
+}
